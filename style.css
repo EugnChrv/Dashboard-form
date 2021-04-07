@@ -1,0 +1,156 @@
+.background {
+    background-color:#0079C4;
+    ;
+}
+.text1 {
+    position: absolute;
+    left: 44%;
+    right: 45.28%;
+    top: 22%;
+    color: white;
+}
+
+.Welcome {
+    position: absolute;
+    left: 39%;
+    right: 37.92%;
+    top: 25.11%;
+    bottom: 79%;
+
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 50px;
+    letter-spacing: -0.5px;
+    color: #FFFFFF;
+}
+
+.text2 {
+    position: absolute;
+left: 36%;
+right: 40.56%;
+top: 31.78%;
+bottom: 99%;
+
+font-family: Heebo;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 25px;
+text-align: center;
+color: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.7;
+}
+
+.textbg {
+    position: absolute;
+    left: 42.5%;
+    right: 44%;
+    top: 42%;
+    bottom: 50%;
+
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.content1 {
+    position: absolute;
+    left: 35%;
+    right: 35%;
+    top: 41%;
+    bottom: 24%;
+
+    background: #2C405A;
+    border: 1px solid #3F536E;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 5px rgba(23, 24, 25, 0.59692);
+    border-radius: 8px;
+}
+
+.user {
+    position: absolute;
+    left: 38%;
+    right: 40%;
+    top: 50%;
+    bottom: 45%;
+    width: 19%;
+
+    background: #2C405A;
+    border: 2px solid #3F536E;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.pass {
+    position: absolute;
+    left: 38%;
+    right: 40%;
+    top: 55.5%;
+    bottom: 39.5%;
+    width: 19%;
+
+    background: #2C405A;
+    border: 2px solid #3F536E;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.sign {
+    position: absolute;
+    left: 43.5%;
+    right: 45%;
+    top: 59%;
+    box-sizing: border-box;
+}
+
+.signin{
+    width: 130px;
+    height: 46px;
+    background: #4ece3d;
+    border-radius: 4px;
+    font-family: "Heebo";
+    border: 1px solid #3F536E;
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 22px;
+    color: #fff;
+    margin-top: 10px;
+}
+
+.forgot {
+    position: absolute;
+    left: 43%;
+    right: 45%;
+    top: 73%;
+    bottom: 30%;
+
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #0093EE;
+}
+
+.images {
+    background-size: 500px;
+    /* Inner Shadow */
+
+position: absolute;
+left: 95%;
+right: 1.39%;
+top: 92%;
+bottom: 2.22%;
+
+background: rgba(0, 0, 0, 0.0001);
+box-shadow: inset 1px 1px 0px rgba(255, 255, 255, 0.200747);
+border-radius: 100px;
+
+}
